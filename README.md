@@ -5,10 +5,10 @@ Not related to [fivem-js](https://www.npmjs.com/package/fivem-js) :)
 **How-To Install:**
 
 ```
-npm i five.js
+npm i @greenlio_/five-js
 ```
 
-**NPM Package:** [npmjs.com/five.js](https://www.npmjs.com/package/five.js)
+**NPM Package:** [npmjs.com/package/@greenlio_/five-js](https://www.npmjs.com/package/@greenlio_/five-js)
 **Support** GitHub Issues :)
 
 # Possibilities:
