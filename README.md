@@ -1,4 +1,4 @@
-# FiveM.js
+# Five.js
 Package in order to interact with FiveM built-in web server of servers.
 Not related to [fivem-js](https://www.npmjs.com/package/fivem-js) :)
 
