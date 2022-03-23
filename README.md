@@ -23,11 +23,11 @@ npm i @greenlio_/five-js
 - getServerResources - Get all resource names of the server resources.
 
 - getGameName - Get game the server uses. 99% of the time is 'gtav'.
-- getOnesyncStatus - Get the result of if Onesync is enabled for the server.
+- getOnesyncStatus - Get the result of if OneSync is enabled for the server.
 - getEnforcedBuild - Get the required build when you join the server.
 - getEnhancedSupport - Get if or if not the server supports enhanced hosts.
 - getLAN - Get if server is a LAN server.
-- getOnesyncToken - Get the Onesync license key for the server.
+- getOnesyncToken - Get the OneSync license key for the server.
 - getMaxPlayers - Get the set and defined max player amount.
 - getHookAllowed - Get if not or if script hooks are allowed.
 
